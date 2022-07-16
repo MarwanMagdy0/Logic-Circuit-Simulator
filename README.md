@@ -14,4 +14,4 @@ it's a simulator built using pygame and python, it's buit in raw using only line
 ## And gate simulation
 
 
-![image](https://user-images.githubusercontent.com/108637087/179366974-bcfa66cc-460a-4832-887b-e0475e6b58dc.png)
+![image](https://user-images.githubusercontent.com/108637087/179367003-c7033965-91ab-47f4-8913-a0b76c3f45ee.png)
