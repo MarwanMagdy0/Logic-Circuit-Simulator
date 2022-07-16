@@ -4,6 +4,13 @@ it's a simulator built using pygame and python, it's buit in raw using only line
 - And Or and Not gates.
 - Switch, Button and Bulb.
 - it can save the circuit and load it
+## FullScreen snip
+
+
+![image](https://user-images.githubusercontent.com/108637087/179367016-f93a1673-43ac-47cc-90be-e40240a73390.png)
+
+
+
 
 ## SR latch simulation
 
