@@ -7,15 +7,7 @@ it's a simulator built using pygame and python, it's buit in raw using only line
 ## FullScreen snip
 
 
-![image](https://user-images.githubusercontent.com/108637087/179367016-f93a1673-43ac-47cc-90be-e40240a73390.png)
-
-
-
-
-## SR latch simulation
-
-
-![image](https://user-images.githubusercontent.com/108637087/179366898-aeae3074-2ac4-4976-b5e9-4d679c713222.png)
+![image](https://user-images.githubusercontent.com/108637087/179367060-b93f6fd8-d3f2-4701-95a0-c35adf226e9a.png)
 
 
 ## And gate simulation
